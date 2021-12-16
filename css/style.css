@@ -153,7 +153,7 @@ section#portfolio .portfolio_main dl dt{width: 700px; height: 620px;}
 #wrap section#portfolio .portfolio_main dl:nth-child(7) dd p.site_btn a:hover{border: 1px solid #f2b111; color: #f2b111;}
 
 /* section etc - 기타디자인 */
-#wrap section#etc{width: 100%; overflow: hidden; background: #f9f9f9; padding: 100px 0;}
+#wrap section#etc{min-width: 1400px; width: 100%; overflow: hidden; background: #f9f9f9; padding: 100px 0;}
 #wrap section#etc .etc_main{min-width: 1400px; width: 1400px; height: 400px; margin: 0 auto; overflow: hidden; padding-top: 60px;}
 #wrap section#etc .etc_main dl{width: 19.2%; margin-right: 1%; position: relative; cursor: pointer;}
 #wrap section#etc .etc_main dl:last-child{margin-right: 0; }
